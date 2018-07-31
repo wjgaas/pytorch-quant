@@ -1,0 +1,375 @@
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=32,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=32,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=32,           fwd_bits=8, overflow_rate=0.0, acc1=0.5455, acc5=0.7780
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.5455, acc5=0.7780
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.5471, acc5=0.7794
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.5000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.5471, acc5=0.7794
+type=alexnet, quant_method=linear, param_bits=32, bn_bits=32,           fwd_bits=32, overflow_rate=0.0, acc1=0.5652, acc5=0.7907
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.5471, acc5=0.7794
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.5338, acc5=0.7659
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.5319, acc5=0.7657
+type=vgg16, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7087, acc5=0.9015
+type=resnet50, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0010, acc5=0.0048
+type=vgg16, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7087, acc5=0.9015
+type=resnet50, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0010, acc5=0.0048
+type=resnet50, quant_method=linear, param_bits=32, bn_bits=32,           fwd_bits=32, overflow_rate=0.0, acc1=0.7613, acc5=0.9286
+type=resnet101, quant_method=linear, param_bits=32, bn_bits=32,           fwd_bits=32, overflow_rate=0.0, acc1=0.7737, acc5=0.9355
+type=resnet50, quant_method=linear, param_bits=16, bn_bits=8,           fwd_bits=16, overflow_rate=0.0, acc1=0.0010, acc5=0.0050
+type=resnet50, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=32, overflow_rate=0.0, acc1=0.0010, acc5=0.0051
+type=resnet50, quant_method=linear, param_bits=32, bn_bits=8,           fwd_bits=32, overflow_rate=0.0, acc1=0.7613, acc5=0.9286
+type=resnet50, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=31, overflow_rate=0.0, acc1=0.0011, acc5=0.0052
+type=resnet50, quant_method=linear, param_bits=31, bn_bits=8,           fwd_bits=31, overflow_rate=0.0, acc1=0.0010, acc5=0.0050
+type=resnet50, quant_method=linear, param_bits=31, bn_bits=8,           fwd_bits=32, overflow_rate=0.0, acc1=0.0010, acc5=0.0050
+type=resnet50, quant_method=linear, param_bits=32, bn_bits=8,           fwd_bits=32, overflow_rate=0.0, acc1=0.7613, acc5=0.9286
+type=vgg16, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7087, acc5=0.9015
+type=vgg16, quant_method=linear, param_bits=32, bn_bits=32,           fwd_bits=32, overflow_rate=0.0, acc1=0.7159, acc5=0.9038
+type=vgg16, quant_method=linear, param_bits=4, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0010, acc5=0.0050
+type=vgg16, quant_method=linear, param_bits=7, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.6874, acc5=0.8876
+type=vgg16, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.2000, acc5=0.4000
+type=vgg16, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7000, acc5=0.7000
+type=vgg16, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.9000, acc5=1.0000
+type=vgg16, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.9000, acc5=1.0000
+type=vgg16, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.9000, acc5=1.0000
+type=vgg16, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7045, acc5=0.8990
+type=vgg16, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7054, acc5=0.8985
+type=resnet18, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=16, overflow_rate=0.0, acc1=0.6702, acc5=0.8741
+type=resnet18, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.6596, acc5=0.8670
+type=resnet18, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.6596, acc5=0.8670
+type=resnet18, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.6596, acc5=0.8670
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0010, acc5=0.0049
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=16, overflow_rate=0.0, acc1=0.0008, acc5=0.0048
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.5411, acc5=0.7758
+type=alexnet, quant_method=linear, param_bits=32, bn_bits=32,           fwd_bits=32, overflow_rate=0.0, acc1=0.5615, acc5=0.7900
+type=vgg16, quant_method=linear, param_bits=32, bn_bits=32,           fwd_bits=32, overflow_rate=0.0, acc1=0.7126, acc5=0.9013
+type=vgg16, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7045, acc5=0.8990
+type=resnet18, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.6596, acc5=0.8670
+type=vgg16, quant_method=linear, param_bits=32, bn_bits=32,           fwd_bits=32, overflow_rate=0.0, acc1=0.7126, acc5=0.9013
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7000, acc5=0.8000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7000, acc5=0.8000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7000, acc5=0.8000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7000, acc5=0.8000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7000, acc5=0.8000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7000, acc5=0.8000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7000, acc5=0.8000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7000, acc5=0.8000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7000, acc5=0.8000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7000, acc5=0.8000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7000, acc5=0.8000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7000, acc5=0.8000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7000, acc5=0.8000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7000, acc5=0.8000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=vgg16, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=resnet18, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=16, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=16, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=16, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=resnet18, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=16, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=16, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=16, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=16, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=16, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=16, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.5411, acc5=0.7758
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.5418, acc5=0.7751
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=16, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=16, overflow_rate=0.0, acc1=0.0008, acc5=0.0048
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=16, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=32, overflow_rate=0.0, acc1=0.0009, acc5=0.0049
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=32, overflow_rate=0.0, acc1=0.0009, acc5=0.0049
+type=resnet34, quant_method=linear, param_bits=16, bn_bits=8,           fwd_bits=32, overflow_rate=0.0, acc1=0.0008, acc5=0.0046
+type=resnet34, quant_method=linear, param_bits=32, bn_bits=8,           fwd_bits=32, overflow_rate=0.0, acc1=0.7295, acc5=0.9114
+type=resnet34, quant_method=linear, param_bits=31, bn_bits=8,           fwd_bits=32, overflow_rate=0.0, acc1=0.0008, acc5=0.0046
+type=resnet34, quant_method=linear, param_bits=32, bn_bits=8,           fwd_bits=31, overflow_rate=0.0, acc1=0.7295, acc5=0.9114
+type=resnet34, quant_method=linear, param_bits=32, bn_bits=8,           fwd_bits=16, overflow_rate=0.0, acc1=0.7294, acc5=0.9114
+type=resnet34, quant_method=linear, param_bits=32, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7139, acc5=0.9028
+type=resnet34, quant_method=linear, param_bits=32, bn_bits=8,           fwd_bits=32, overflow_rate=0.0, acc1=0.7295, acc5=0.9114
+type=resnet34, quant_method=linear, param_bits=16, bn_bits=8,           fwd_bits=16, overflow_rate=0.0, acc1=0.0008, acc5=0.0046
+type=resnet34, quant_method=linear, param_bits=32, bn_bits=8,           fwd_bits=7, overflow_rate=0.0, acc1=0.6519, acc5=0.8620
+type=resnet34, quant_method=linear, param_bits=32, bn_bits=8,           fwd_bits=9, overflow_rate=0.0, acc1=0.7273, acc5=0.9108
+type=resnet34, quant_method=linear, param_bits=32, bn_bits=8,           fwd_bits=10, overflow_rate=0.0, acc1=0.7287, acc5=0.9116
+type=resnet34, quant_method=linear, param_bits=32, bn_bits=8,           fwd_bits=16, overflow_rate=0.0, acc1=0.7294, acc5=0.9114
+type=vgg16_bn, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0009, acc5=0.0050
+type=vgg16_bn, quant_method=linear, param_bits=8, bn_bits=32,           fwd_bits=8, overflow_rate=0.0, acc1=0.0009, acc5=0.0049
+type=vgg16_bn, quant_method=linear, param_bits=32, bn_bits=32,           fwd_bits=8, overflow_rate=0.0, acc1=0.0010, acc5=0.0043
+type=vgg16_bn, quant_method=linear, param_bits=32, bn_bits=32,           fwd_bits=32, overflow_rate=0.0, acc1=0.0011, acc5=0.0053
+type=vgg19, quant_method=linear, param_bits=32, bn_bits=32,           fwd_bits=32, overflow_rate=0.0, acc1=0.7203, acc5=0.9065
+type=vgg19_bn, quant_method=linear, param_bits=32, bn_bits=32,           fwd_bits=32, overflow_rate=0.0, acc1=0.0011, acc5=0.0054
+type=resnet34, quant_method=linear, param_bits=32, bn_bits=32,           fwd_bits=8, overflow_rate=0.0, acc1=0.7207, acc5=0.9074
+type=resnet34, quant_method=linear, param_bits=16, bn_bits=32,           fwd_bits=8, overflow_rate=0.0, acc1=0.7148, acc5=0.9037
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=32,           fwd_bits=8, overflow_rate=0.0, acc1=0.7058, acc5=0.8969
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=31,           fwd_bits=8, overflow_rate=0.0, acc1=0.7095, acc5=0.9019
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=16,           fwd_bits=8, overflow_rate=0.0, acc1=0.7115, acc5=0.9016
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0012, acc5=0.0050
+type=resnet50, quant_method=linear, param_bits=8, bn_bits=16,           fwd_bits=8, overflow_rate=0.0, acc1=0.7308, acc5=0.9133
+type=resnet50, quant_method=linear, param_bits=32, bn_bits=16,           fwd_bits=32, overflow_rate=0.0, acc1=0.7574, acc5=0.9269
+type=resnet50, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0010, acc5=0.0047
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.5, acc1=0.0012, acc5=0.0054
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=16,           fwd_bits=8, overflow_rate=0.5, acc1=0.0036, acc5=0.0291
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=16,           fwd_bits=8, overflow_rate=0.0, acc1=0.7036, acc5=0.8965
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=16,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=14,           fwd_bits=8, overflow_rate=0.0, acc1=0.7095, acc5=0.9014
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=12,           fwd_bits=8, overflow_rate=0.0, acc1=0.7112, acc5=0.9017
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=10,           fwd_bits=8, overflow_rate=0.0, acc1=0.6690, acc5=0.8756
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=11,           fwd_bits=8, overflow_rate=0.0, acc1=0.7020, acc5=0.8972
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=11,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=11,           fwd_bits=8, overflow_rate=0.1, acc1=0.1719, acc5=0.6562
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=10,           fwd_bits=8, overflow_rate=0.1, acc1=0.1875, acc5=0.5938
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=10,           fwd_bits=8, overflow_rate=0.1, acc1=0.2205, acc5=0.6706
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=10,           fwd_bits=8, overflow_rate=0.01, acc1=0.1583, acc5=0.6276
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=10,           fwd_bits=8, overflow_rate=0.0, acc1=0.6760, acc5=0.8833
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=9,           fwd_bits=8, overflow_rate=0.0, acc1=0.0052, acc5=0.0183
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=9,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=9,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=9,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=9,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=9,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=9,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=9,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=9,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=9,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=9,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=9,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=9,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=resnet50, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.8000, acc5=0.8500
+type=resnet50, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7353, acc5=0.9154
+type=resnet34, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.7148, acc5=0.9036
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=alexnet, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=MobileNetV2, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=MobileNetV2, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0010, acc5=0.0050
+type=MobileNetV2, quant_method=linear, param_bits=32, bn_bits=32,           fwd_bits=32, overflow_rate=0.0, acc1=0.6980, acc5=0.8955
+type=MobileNetV2, quant_method=linear, param_bits=32, bn_bits=32,           fwd_bits=32, overflow_rate=0.0, acc1=0.7146, acc5=0.9026
+type=MobileNetV2, quant_method=linear, param_bits=16, bn_bits=16,           fwd_bits=16, overflow_rate=0.0, acc1=0.0010, acc5=0.0050
+type=MobileNetV2, quant_method=linear, param_bits=16, bn_bits=16,           fwd_bits=16, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=MobileNetV2, quant_method=linear, param_bits=16, bn_bits=16,           fwd_bits=16, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=MobileNetV2, quant_method=linear, param_bits=16, bn_bits=16,           fwd_bits=16, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=MobileNetV2, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=MobileNetV2, quant_method=linear, param_bits=16, bn_bits=16,           fwd_bits=16, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=MobileNetV2, quant_method=linear, param_bits=16, bn_bits=16,           fwd_bits=16, overflow_rate=0.0, acc1=0.0010, acc5=0.0050
+type=MobileNetV2, quant_method=linear, param_bits=25, bn_bits=25,           fwd_bits=16, overflow_rate=0.0, acc1=0.0010, acc5=0.0050
+type=MobileNetV2, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=MobileNetV2, quant_method=linear, param_bits=16, bn_bits=16,           fwd_bits=16, overflow_rate=0.0, acc1=0.7145, acc5=0.9026
+type=MobileNetV2, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=MobileNetV2, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=MobileNetV2, quant_method=linear, param_bits=9, bn_bits=9,           fwd_bits=8, overflow_rate=0.0, acc1=0.5276, acc5=0.7700
+type=MobileNetV2, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=MobileNetV2, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=MobileNetV2, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=MobileNetV2, quant_method=linear, param_bits=10, bn_bits=10,           fwd_bits=8, overflow_rate=0.0, acc1=0.5381, acc5=0.7803
+type=MobileNetV2, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=1.0000, acc5=1.0000
+type=MobileNetV2, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=1.0000
+type=MobileNetV2, quant_method=linear, param_bits=10, bn_bits=10,           fwd_bits=8, overflow_rate=0.0, acc1=0.5368, acc5=0.7801
+type=MobileNetV2, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.0000, acc5=0.0000
+type=MobileNetV2, quant_method=linear, param_bits=10, bn_bits=10,           fwd_bits=8, overflow_rate=0.0, acc1=0.6682, acc5=0.8746
+type=MobileNetV2, quant_method=linear, param_bits=8, bn_bits=8,           fwd_bits=8, overflow_rate=0.0, acc1=0.5912, acc5=0.8506
+type=MobileNetV2, quant_method=linear, param_bits=8, bn_bits=16,           fwd_bits=8, overflow_rate=0.0, acc1=0.6377, acc5=0.8561
+type=MobileNetV2, quant_method=linear, param_bits=16, bn_bits=16,           fwd_bits=8, overflow_rate=0.0, acc1=0.6662, acc5=0.8745
+type=MobileNetV2, quant_method=linear, param_bits=16, bn_bits=16,           fwd_bits=16, overflow_rate=0.0, acc1=0.7018, acc5=0.8953
+type=MobileNetV2, quant_method=linear, 
+           param_bits=10, bn_bits=10, fwd_bits=16, overflow_rate=0.0,
+           acc1=0.6988, acc5=0.8942
+type=MobileNetV2, quant_method=linear, 
+           param_bits=8, bn_bits=8, fwd_bits=16, overflow_rate=0.0,
+           acc1=0.6742, acc5=0.8803
+type=MobileNetV2, quant_method=linear, 
+           param_bits=8, bn_bits=8, fwd_bits=10, overflow_rate=0.0,
+           acc1=0.5950, acc5=0.8770
+type=MobileNetV2, quant_method=linear, 
+           param_bits=16, bn_bits=16, fwd_bits=16, overflow_rate=0.0,
+           acc1=0.6634, acc5=0.8741
+type=MobileNetV2, quant_method=linear, 
+           param_bits=32, bn_bits=32, fwd_bits=32, overflow_rate=0.0,
+           acc1=0.7146, acc5=0.9026
+type=MobileNetV2, quant_method=linear, 
+           param_bits=8, bn_bits=32, fwd_bits=32, overflow_rate=0.0,
+           acc1=0.6393, acc5=0.8596
+type=MobileNetV2, quant_method=linear, 
+           param_bits=8, bn_bits=8, fwd_bits=8, overflow_rate=0.0,
+           acc1=0.5506, acc5=0.8469
+type=resnet34, quant_method=linear, 
+           param_bits=8, bn_bits=8, fwd_bits=8, overflow_rate=0.0,
+           acc1=0.3494, acc5=0.6257
+type=resnet34, quant_method=linear, 
+           param_bits=8, bn_bits=8, fwd_bits=8, overflow_rate=0.0,
+           acc1=0.7025, acc5=0.9062
+type=resnet34, quant_method=linear, 
+           param_bits=32, bn_bits=32, fwd_bits=32, overflow_rate=0.0,
+           acc1=0.7295, acc5=0.9114
+type=resnet34, quant_method=linear, 
+           param_bits=16, bn_bits=16, fwd_bits=16, overflow_rate=0.0,
+           acc1=0.7088, acc5=0.9103
+type=resnet34, quant_method=linear, 
+           param_bits=16, bn_bits=16, fwd_bits=16, overflow_rate=0.0,
+           acc1=0.6899, acc5=0.9119
+type=resnet34, quant_method=linear, 
+           param_bits=8, bn_bits=8, fwd_bits=8, overflow_rate=0.0,
+           acc1=0.3500, acc5=0.6294
+type=resnet34, quant_method=linear, 
+           param_bits=8, bn_bits=8, fwd_bits=16, overflow_rate=0.0,
+           acc1=0.3517, acc5=0.6312
+type=resnet34, quant_method=linear, 
+           param_bits=16, bn_bits=8, fwd_bits=16, overflow_rate=0.0,
+           acc1=0.7288, acc5=0.9119
+type=resnet34, quant_method=linear, 
+           param_bits=10, bn_bits=8, fwd_bits=16, overflow_rate=0.0,
+           acc1=0.7071, acc5=0.9085
+type=resnet34, quant_method=linear, 
+           param_bits=9, bn_bits=8, fwd_bits=16, overflow_rate=0.0,
+           acc1=0.6804, acc5=0.8992
+type=resnet34, quant_method=linear, 
+           param_bits=8, bn_bits=8, fwd_bits=16, overflow_rate=0.0,
+           acc1=0.3286, acc5=0.6044
+type=resnet34, quant_method=linear, 
+           param_bits=9, bn_bits=8, fwd_bits=10, overflow_rate=0.0,
+           acc1=0.7052, acc5=0.8994
+type=resnet34, quant_method=linear, 
+           param_bits=9, bn_bits=8, fwd_bits=8, overflow_rate=0.0,
+           acc1=0.6787, acc5=0.8992
+type=resnet34, quant_method=linear, 
+           param_bits=8, bn_bits=8, fwd_bits=8, overflow_rate=0.0,
+           acc1=0.7024, acc5=0.9058
+type=resnet34, quant_method=linear, 
+           param_bits=4, bn_bits=8, fwd_bits=8, overflow_rate=0.0,
+           acc1=0.0010, acc5=0.0052
+type=MobileNetV2, quant_method=linear, 
+           param_bits=8, bn_bits=8, fwd_bits=8, overflow_rate=0.0,
+           acc1=0.6230, acc5=0.8497
+type=MobileNetV2, quant_method=linear, 
+           param_bits=8, bn_bits=8, fwd_bits=8, overflow_rate=0.0,
+           acc1=0.6376, acc5=0.8530
+type=resnet50, quant_method=linear, 
+           param_bits=8, bn_bits=8, fwd_bits=8, overflow_rate=0.0,
+           acc1=0.7335, acc5=0.9187
+type=MobileNetV2, quant_method=linear, 
+           param_bits=8, bn_bits=8, fwd_bits=8, overflow_rate=0.0,
+           acc1=0.6349, acc5=0.8528
+type=vgg16, quant_method=linear, 
+           param_bits=8, bn_bits=8, fwd_bits=8, overflow_rate=0.0,
+           acc1=0.7024, acc5=0.8986
+type=MobileNetV2, quant_method=linear, 
+           param_bits=8, bn_bits=8, fwd_bits=8, overflow_rate=0.0,
+           acc1=0.6208, acc5=0.8476
+type=resnet34, quant_method=linear, 
+           param_bits=8, bn_bits=8, fwd_bits=8, overflow_rate=0.0,
+           acc1=0.2969, acc5=0.6250
